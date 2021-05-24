@@ -8,6 +8,5 @@ dist
 .env
 migrations
 nohup*
-configs
+files
 flask_session/*
-.vscode
